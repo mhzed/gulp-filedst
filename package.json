@@ -1,0 +1,15 @@
+{
+  "name": "gulp-filedst",
+  "version": "1.0.0",
+  "description": "gulp-filedst --------",
+  "main": "gulp-filedst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mhzedd@gmail.com",
+  "repository": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.0"
+  }
+}
